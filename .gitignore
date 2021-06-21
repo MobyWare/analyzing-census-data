@@ -1,3 +1,10 @@
+## Personal IDE
+/tmp
+scratch*.py
+
+## IDE
+.vscode
+
 ## jupyter and python
 .ipynb_checkpoints/
 __pycache__/
